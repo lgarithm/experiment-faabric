@@ -1,6 +1,6 @@
-# Faabric Experiments
+# Granny Experiments
 
-This repo contains the experiments for the [Faabric paper](
+This repo contains the experiments for the [Granny paper](
 https://arxiv.org/abs/2302.11358).
 
 When following any instructions in this repository, it is recommended to
